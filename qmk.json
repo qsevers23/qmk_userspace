@@ -3,6 +3,7 @@
     "build_targets": [
         ["kbdfans/odin/v2", "qsevers23"],
         ["kbdfans/kbd75/rev2", "qsevers23"],
-        ["wuque/mammoth75x", "qsevers23"]
+        ["wuque/mammoth75x", "qsevers23"],
+        ["durgod/k320/base", "qsevers23"]
     ]
 }
